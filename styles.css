@@ -179,6 +179,7 @@ img {
   font-weight: 600;
   border: 1px solid transparent;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
+  gap: 10px;
 }
 
 .btn.primary {
@@ -384,6 +385,11 @@ img {
   color: var(--color-slate);
   margin-top: 18px;
   box-shadow: none;
+}
+
+.btn-icon {
+  width: 18px;
+  height: 18px;
 }
 
 .support-note {
