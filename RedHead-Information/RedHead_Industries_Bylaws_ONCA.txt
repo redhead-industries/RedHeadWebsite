@@ -1,0 +1,92 @@
+Bylaws of RedHead Industries
+(Ontario Not-for-Profit Corporations Act - ONCA)
+ARTICLE 1 - GENERAL
+1.1 Name
+The name of the corporation is RedHead Industries (the "Corporation").
+
+1.2 Jurisdiction
+The Corporation is governed by the Ontario Not-for-Profit Corporations Act (ONCA).
+
+1.3 Non-Profit Operation
+The Corporation shall be carried on without the purpose of gain for its members. Any profits or other accretions shall be used solely to further the purposes of the Corporation.
+ARTICLE 2 - PURPOSE
+2.1 Purpose
+The Corporation exists to carry out the purposes set out in its Articles of Incorporation, including supporting free and open-source software, privacy-respecting digital tools, community-driven technology initiatives, and open research activities for public benefit.
+ARTICLE 3 - MEMBERS
+3.1 Membership
+The Corporation may have one or more members as determined by the Board of Directors.
+
+3.2 Initial Member
+The founder, Matthew DaLuz, shall be the initial and sole member of the Corporation unless additional members are admitted.
+
+3.3 Admission of Members
+Additional members may be admitted by resolution of the Board of Directors.
+
+3.4 Rights of Members
+Each member is entitled to one (1) vote at meetings of members.
+
+3.5 Termination of Membership
+Membership may be terminated by resignation or by resolution of the Board of Directors.
+ARTICLE 4 - MEETINGS OF MEMBERS
+4.1 Annual Meeting
+An annual meeting of members shall be held at such time and place as determined by the Board.
+
+4.2 Quorum
+A quorum for meetings of members shall be a majority of the members entitled to vote.
+
+4.3 Written Resolutions
+Resolutions signed by all members entitled to vote are as valid as if passed at a meeting.
+ARTICLE 5 - BOARD OF DIRECTORS
+5.1 Authority
+The affairs of the Corporation shall be managed by its Board of Directors.
+
+5.2 Number of Directors
+The Corporation shall have a minimum of one (1) director and a maximum of one (1) director.
+
+5.3 Initial Director
+The first and current director of the Corporation is Matthew DaLuz.
+
+5.4 Term of Office
+Directors shall hold office until they resign, are removed, or replaced.
+
+5.5 Powers
+The Board may appoint officers, admit members, approve expenditures, enter into contracts, and create or dissolve internal initiatives or branches.
+ARTICLE 6 - OFFICERS
+6.1 Officers
+The Board may appoint officers including President, Secretary, and Treasurer. One person may hold multiple offices.
+
+6.2 Duties
+Officers shall perform duties assigned by the Board.
+ARTICLE 7 - MEETINGS OF DIRECTORS
+7.1 Meetings
+Meetings of the Board may be held at any time and place determined by the Director.
+
+7.2 Quorum
+A quorum shall consist of a majority of directors.
+
+7.3 Written Resolutions
+A resolution signed by all directors is valid as if passed at a meeting.
+ARTICLE 8 - CONFLICT OF INTEREST
+8.1 Disclosure
+Any director or officer with an interest in a contract or transaction shall disclose the interest.
+
+8.2 Abstention
+The interested director shall abstain from voting except as permitted by ONCA.
+ARTICLE 9 - FINANCIAL MATTERS
+9.1 Fiscal Year
+The fiscal year shall be determined by the Board.
+
+9.2 Banking
+The Board shall designate financial institutions for the Corporation's funds.
+
+9.3 Signing Authority
+The Board may authorize officers or directors to sign instruments on behalf of the Corporation.
+ARTICLE 10 - RECORDS
+10.1 Records
+The Corporation shall maintain Articles, bylaws, minutes, resolutions, financial records, and registers.
+ARTICLE 11 - AMENDMENTS
+11.1 Amendments
+These bylaws may be amended by resolution of the Board and, where required, approval of members.
+ARTICLE 12 - DISSOLUTION
+12.1 Dissolution
+Upon dissolution, remaining property shall be distributed in accordance with the Articles of Incorporation and ONCA.
