@@ -429,13 +429,15 @@ img {
   color: var(--color-ink-soft);
 }
 
-.policy-hero h1 {
+.policy-hero h1,
+.philosophy-hero h1 {
   font-family: "Space Grotesk", "Arial", sans-serif;
   font-size: clamp(2rem, 2.4vw + 1.2rem, 3rem);
   margin: 0;
 }
 
-.policy-meta {
+.policy-meta,
+.philosophy-meta {
   display: flex;
   flex-wrap: wrap;
   gap: 12px;
@@ -444,14 +446,16 @@ img {
   color: var(--color-ink-soft);
 }
 
-.policy-meta span {
+.policy-meta span,
+.philosophy-meta span {
   background: rgba(255, 255, 255, 0.8);
   padding: 8px 14px;
   border-radius: 999px;
   box-shadow: var(--shadow-card);
 }
 
-.policy-highlight {
+.policy-highlight,
+.philosophy-highlight {
   margin-top: 24px;
   background: white;
   border-radius: 22px;
@@ -460,17 +464,20 @@ img {
   border: 1px solid rgba(18, 18, 18, 0.05);
 }
 
-.policy-highlight h2 {
+.policy-highlight h2,
+.philosophy-highlight h2 {
   font-family: "Space Grotesk", "Arial", sans-serif;
   margin-top: 0;
 }
 
-.policy-body {
+.policy-body,
+.philosophy-body {
   display: grid;
   gap: 24px;
 }
 
-.policy-section {
+.policy-section,
+.philosophy-section {
   background: white;
   border-radius: 20px;
   padding: 24px;
@@ -478,7 +485,9 @@ img {
   border: 1px solid rgba(18, 18, 18, 0.05);
 }
 
-.policy-section h2 {
+.policy-section h2,
+.philosophy-section h2,
+.philosophy-section h3 {
   font-family: "Space Grotesk", "Arial", sans-serif;
   margin-top: 0;
 }
@@ -489,19 +498,37 @@ img {
   color: var(--color-ember-dark);
 }
 
-.policy-section p {
+.philosophy-section h3 {
+  margin: 0 0 12px;
+  color: var(--color-ember-dark);
+}
+
+.policy-section p,
+.philosophy-section p {
   margin: 0 0 12px;
   color: var(--color-ink-soft);
   line-height: 1.6;
 }
 
-.policy-section ul {
+.policy-section ul,
+.philosophy-section ul {
   margin: 0 0 12px;
   padding-left: 20px;
   color: var(--color-ink-soft);
 }
 
-.policy-section li {
+.policy-section li,
+.philosophy-section li {
+  margin-bottom: 8px;
+}
+
+.card-list {
+  margin: 12px 0 0;
+  padding-left: 18px;
+  color: var(--color-ink-soft);
+}
+
+.card-list li {
   margin-bottom: 8px;
 }
 
@@ -524,6 +551,45 @@ img {
   gap: 20px;
   font-family: "Space Grotesk", "Arial", sans-serif;
   font-size: 0.95rem;
+}
+
+.footer-contact {
+  display: grid;
+  gap: 10px;
+  font-family: "Space Grotesk", "Arial", sans-serif;
+}
+
+.footer-contact h4 {
+  margin: 0;
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: rgba(246, 239, 231, 0.65);
+}
+
+.contact-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+  font-size: 0.95rem;
+}
+
+.contact-list li {
+  display: grid;
+  gap: 4px;
+}
+
+.contact-list span {
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: rgba(246, 239, 231, 0.6);
+}
+
+.contact-list a {
+  color: #f6efe7;
 }
 
 .footer-bottom {
