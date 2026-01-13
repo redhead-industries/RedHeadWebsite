@@ -474,6 +474,8 @@ img {
 .philosophy-body {
   display: grid;
   gap: 24px;
+  max-width: 980px;
+  margin: 0 auto;
 }
 
 .policy-section,
@@ -489,13 +491,17 @@ img {
 .philosophy-section h2,
 .philosophy-section h3 {
   font-family: "Space Grotesk", "Arial", sans-serif;
-  margin-top: 0;
+  margin: 0 0 12px;
+  font-size: 1.4rem;
+  line-height: 1.2;
 }
 
 .policy-section h3 {
   font-family: "Space Grotesk", "Arial", sans-serif;
   margin: 18px 0 8px;
   color: var(--color-ember-dark);
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 .philosophy-section h3 {
@@ -542,13 +548,14 @@ img {
   display: flex;
   flex-wrap: wrap;
   gap: 24px;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
 }
 
 .footer-links {
-  display: flex;
-  gap: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px 20px;
   font-family: "Space Grotesk", "Arial", sans-serif;
   font-size: 0.95rem;
 }
@@ -590,6 +597,7 @@ img {
 
 .contact-list a {
   color: #f6efe7;
+  overflow-wrap: anywhere;
 }
 
 .footer-bottom {
@@ -619,10 +627,13 @@ img {
     flex-direction: column;
   }
 
-  .footer-grid,
-  .footer-links {
+  .footer-grid {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .footer-links {
+    grid-template-columns: 1fr;
   }
 }
 
