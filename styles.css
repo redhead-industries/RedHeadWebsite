@@ -429,6 +429,82 @@ img {
   color: var(--color-ink-soft);
 }
 
+.policy-hero h1 {
+  font-family: "Space Grotesk", "Arial", sans-serif;
+  font-size: clamp(2rem, 2.4vw + 1.2rem, 3rem);
+  margin: 0;
+}
+
+.policy-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  font-family: "Space Grotesk", "Arial", sans-serif;
+  font-size: 0.95rem;
+  color: var(--color-ink-soft);
+}
+
+.policy-meta span {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 8px 14px;
+  border-radius: 999px;
+  box-shadow: var(--shadow-card);
+}
+
+.policy-highlight {
+  margin-top: 24px;
+  background: white;
+  border-radius: 22px;
+  padding: 22px;
+  box-shadow: var(--shadow-card);
+  border: 1px solid rgba(18, 18, 18, 0.05);
+}
+
+.policy-highlight h2 {
+  font-family: "Space Grotesk", "Arial", sans-serif;
+  margin-top: 0;
+}
+
+.policy-body {
+  display: grid;
+  gap: 24px;
+}
+
+.policy-section {
+  background: white;
+  border-radius: 20px;
+  padding: 24px;
+  box-shadow: var(--shadow-card);
+  border: 1px solid rgba(18, 18, 18, 0.05);
+}
+
+.policy-section h2 {
+  font-family: "Space Grotesk", "Arial", sans-serif;
+  margin-top: 0;
+}
+
+.policy-section h3 {
+  font-family: "Space Grotesk", "Arial", sans-serif;
+  margin: 18px 0 8px;
+  color: var(--color-ember-dark);
+}
+
+.policy-section p {
+  margin: 0 0 12px;
+  color: var(--color-ink-soft);
+  line-height: 1.6;
+}
+
+.policy-section ul {
+  margin: 0 0 12px;
+  padding-left: 20px;
+  color: var(--color-ink-soft);
+}
+
+.policy-section li {
+  margin-bottom: 8px;
+}
+
 .site-footer {
   padding: 50px 0 30px;
   background: #161616;
